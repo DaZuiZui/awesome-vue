@@ -2234,6 +2234,16 @@ application.  By @Haixing-Hu
     </sup>
     An enterprise work flow engine capable of integrating SAP, Oracle, etc. e.g., Purchase Order release just by config although futher development supported.
    </li>
+   <li>
+     <a href="http://www.dazuizui.com/">
+        ZuiOJ System
+     </a>
+     <sup>
+       <a href="https://github.com/DaZuiZui/ZuiOJ/">
+        [Source]
+       </a>
+     </sup>
+   </li>
   </ul>
  </li>
  <li>
